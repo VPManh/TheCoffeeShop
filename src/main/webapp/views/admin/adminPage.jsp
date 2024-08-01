@@ -4,7 +4,7 @@
     Author     : ADMIN
 --%>
 
-<%@page import="DAO.SQLDataAccess"%>
+<%@page import="springmvc.dao.SQLDataAccess"%>
 <%@page import="java.sql.ResultSet"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

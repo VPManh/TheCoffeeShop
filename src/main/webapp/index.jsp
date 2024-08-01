@@ -3,7 +3,7 @@
     Created on : May 4, 2023, 4:34:53 PM
     Author     : ADMIN
 --%>
-<%@page import="DAO.SQLDataAccess"%>
+<%@page import="springmvc.dao.SQLDataAccess"%>
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.SQLException"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

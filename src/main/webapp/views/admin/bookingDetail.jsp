@@ -1,6 +1,6 @@
 <%@page import="java.sql.SQLException"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%@page import="DAO.SQLDataAccess"%>
+<%@page import="springmvc.dao.SQLDataAccess"%>
 <%@page import="java.sql.ResultSet"%>
 
 <!DOCTYPE html>
